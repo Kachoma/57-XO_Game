@@ -1,2 +1,3 @@
-# XO-Game
-XO Game
+# This's XO-Game
+
+#### you can develop it
